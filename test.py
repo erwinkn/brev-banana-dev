@@ -1,5 +1,5 @@
 # This file is used to verify your http server acts as expected
-# Run it with `python3 test.py``
+# Run it with `python my_model/test.py``
 
 import requests
 
